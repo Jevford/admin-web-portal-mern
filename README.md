@@ -8,7 +8,6 @@ MERN Stack admin web portal application for CalPlug's Intelligent Grid-Level Neg
 
 The Admin Web Portal displays live information of CALISO data on electricty, carbon emissions, carbon blends, and eletric vehicle charging activity.  The application allows administrative users to view data through clear visual graphs and charts to be able to monitor activity of electric demand, cost, and consumption throughout California.  Admins are also able to see the activity of users using the electric vehicle charger optimizations from the Intelligent Grid-Level Negotiation System and can manage user profiles registered through the EVIE Mobile App.
 
-<img src="AWP.gif" width="850px">
 <img src="awplandingpage.png" width="850px">
 <img src="awpdash.png" width="850px">
 
